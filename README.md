@@ -7,6 +7,8 @@
 A responsive urban cycling landing page with a dark interface, bold typography, and a focus on the bikes.
 Built with HTML, SCSS, and vanilla JavaScript.
 
+**[Live Demo](https://ivam2280.github.io/mybike-landing-page/)**
+
 **HTML5 · SCSS · JavaScript · Parcel**
 
 [Overview](#overview) · [Screenshots](#screenshots) · [Getting started](#getting-started) · [GitHub Pages](#github-pages) · [Project structure](#project-structure)
