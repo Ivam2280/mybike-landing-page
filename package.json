@@ -1,0 +1,21 @@
+{
+  "name": "mybike-landing-page",
+  "version": "1.0.0",
+  "description": "A responsive MYBIKE landing page by Ivan Tovstukha.",
+  "author": "Ivan Tovstukha",
+  "license": "GPL-3.0-only",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html --port 3000",
+    "build": "parcel build index.html --public-url ./",
+    "format": "prettier --write index.html \"src/**/*.{js,css,scss}\""
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
+    "prettier": "^3.2.5"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
